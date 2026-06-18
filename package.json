@@ -1,0 +1,12 @@
+{
+  "name": "databricks-secrets-ui",
+  "version": "1.0.0",
+  "description": "Lightweight UI for Databricks secrets management via CLI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

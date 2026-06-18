@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "secrets-ui",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["server.js"],
+      "port": 3847,
+      "autoPort": true
+    }
+  ]
+}
